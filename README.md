@@ -11,7 +11,7 @@ queues, Temporal, and other services.
 Add this skill repository with your Skills client:
 
 ```sh
-npx skills add <repository-url-or-path>
+npx skills add gelleson/skaffold
 ```
 
 Install the Skaffold skill set and use `skaffold` as the primary entrypoint.
