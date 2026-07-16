@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skaffold Update"
+  short_description: "Reconcile new and changed project services"
+  default_prompt: "Use $skaffold-update to rescan this configured repository and repair its development wiring."

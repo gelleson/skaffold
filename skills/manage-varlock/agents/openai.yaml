@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manage Varlock and SOPS"
+  short_description: "Manage Varlock and SOPS configuration safely"
+  default_prompt: "Use $manage-varlock to configure and validate this project's Varlock and SOPS environment safely."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skaffold Routes"
+  short_description: "Wire Portless and public development tunnels"
+  default_prompt: "Use $skaffold-routes to expose every browser-facing service locally and through public development tunnels."

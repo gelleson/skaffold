@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scaffold Mobile Dev (Legacy)"
+  short_description: "Migrate the legacy mobile-dev setup to Skaffold"
+  default_prompt: "Use $scaffold-mobile-dev to migrate this request to the current Skaffold development workflow."

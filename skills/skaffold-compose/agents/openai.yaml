@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skaffold Compose"
+  short_description: "Build branch-isolated Compose development"
+  default_prompt: "Use $skaffold-compose to create an isolated hot-reloading Compose development stack."

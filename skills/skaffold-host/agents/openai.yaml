@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skaffold Host"
+  short_description: "Provision macOS and Ubuntu development hosts"
+  default_prompt: "Use $skaffold-host to check and provision this development host safely."

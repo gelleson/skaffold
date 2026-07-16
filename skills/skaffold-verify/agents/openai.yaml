@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skaffold Verify"
+  short_description: "Prove the development stack works end to end"
+  default_prompt: "Use $skaffold-verify to test and repair this repository development environment."

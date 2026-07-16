@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skaffold"
+  short_description: "Make any repository runnable with one command"
+  default_prompt: "Use $skaffold to inspect this repository and make its isolated development environment work end to end."

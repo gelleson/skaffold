@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skaffold Discover"
+  short_description: "Inventory apps, services, routes, and commands"
+  default_prompt: "Use $skaffold-discover to inspect this repository and record its runnable topology."
